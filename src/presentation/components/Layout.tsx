@@ -1,4 +1,4 @@
-import React, { ReactNode, useState } from 'react';
+import { ReactNode, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { ShoppingCart, Package, Settings } from 'lucide-react';
 import { useCart } from '../context/CartContext';

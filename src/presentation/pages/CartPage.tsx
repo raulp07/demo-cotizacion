@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowLeft, ShoppingCart, Minus, Plus, Trash2, User, Phone as PhoneIcon } from 'lucide-react';
 import { useCart } from '../context/CartContext';

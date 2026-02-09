@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { X, Phone, Save, Store } from 'lucide-react';
+import { useState, useEffect } from 'react';
+import { X, Save, Store } from 'lucide-react';
 import { whatsappService } from '../../infrastructure/dependencies';
 import './SettingsModal.css';
 

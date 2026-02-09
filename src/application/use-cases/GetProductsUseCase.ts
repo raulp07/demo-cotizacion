@@ -1,5 +1,4 @@
 import { IProductRepository } from '../../domain/interfaces/IProductRepository';
-import { Product } from '../../domain/entities/Product';
 import { toProductDTO, toProductDTOList, ProductDTO } from '../dto/ProductDTO';
 
 export class GetProductsUseCase {

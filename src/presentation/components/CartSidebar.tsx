@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { X, Minus, Plus, Trash2, ShoppingBag, User, Phone as PhoneIcon } from 'lucide-react';
 import { useCart } from '../context/CartContext';
 import { whatsappService } from '../../infrastructure/dependencies';
